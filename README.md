@@ -19,6 +19,7 @@ The purpose of this repo is to list all the lessons we've created at Jam3. These
 
 1. [Many Simple Examples](https://github.com/samdutton/simpl)
 2. [Web App iOS In Browser Video](https://github.com/Jam3/ios-browser-video-example)
+3. [Converting between TypedArrays](https://gist.github.com/MikkoH/f8c5148871bb3ba57455)
 
 # Other Resources
 
