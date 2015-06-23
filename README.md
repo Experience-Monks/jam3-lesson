@@ -35,3 +35,7 @@ Code school is fantastic place with many video tutorials on web development topi
 #### [nodeschool.io](http://nodeschool.io/)
 
 Covers many areas of Javascript development via installable node applications.
+
+#### [Coding Math](https://www.youtube.com/user/codingmath)
+
+A series of videos teaching about math related to development. Topics covered: Animation, Particles, Physics, etc.
