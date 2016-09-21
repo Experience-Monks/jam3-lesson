@@ -4,17 +4,21 @@ The purpose of this repo is to list all the lessons we've created at Jam3. These
 
 # Lessons
 
-1. [Module Basics - what are modules and how to use them](https://github.com/Jam3/jam3-lesson-module-basics)
-2. [Tweening Engines - what is a Tweening engine how to animate with them](https://github.com/Jam3/jam3-lesson-tweening/)
-3. [Project Structure - how Jam3 structures our projects](https://github.com/Jam3/jam3-lesson-project-structure)
-4. Dev Tools - tools we use for development
-5. [Chrome Dev Tools - a quick overview of the chrome dev tools and how to use them](https://github.com/Jam3/jam3-lesson-chrome-dev-tools) 
-6. [Module Creation - how to create and publish modules to npm](https://github.com/mattdesl/jam3-lesson-module-creation)
-7. [Asynchronous Programming - Callbacks, Events, Signals, Promises](https://github.com/Jam3/jam3-lesson-asyncjs)
-8. [Photoshop Devs - the bare minimum you need to work with designers](https://github.com/Jam3/jam3-lesson-photoshop)
-9. Programmatic Layouts - methods and equations to create layouts in JS
-10. Programmatic Animation - methods and equations for animation in JS
-11. Unit Testing - what is unit testing and why do it
+Some lessons are not yet written.
+
+- [Module Basics - what are modules and how to use them](https://github.com/Jam3/jam3-lesson-module-basics)
+- [Tweening Engines - what is a Tweening engine how to animate with them](https://github.com/Jam3/jam3-lesson-tweening/)
+- [Project Structure - how Jam3 structures our projects](https://github.com/Jam3/jam3-lesson-project-structure)
+- Dev Tools - tools we use for development
+- [Chrome Dev Tools - a quick overview of the chrome dev tools and how to use them](https://github.com/Jam3/jam3-lesson-chrome-dev-tools) 
+- [Module Creation - how to create and publish modules to npm](https://github.com/mattdesl/jam3-lesson-module-creation)
+- [Asynchronous Programming - Callbacks, Events, Signals, Promises](https://github.com/Jam3/jam3-lesson-asyncjs)
+- [Photoshop Devs - the bare minimum you need to work with designers](https://github.com/Jam3/jam3-lesson-photoshop)
+- Programmatic Layouts - methods and equations to create layouts in JS
+- Programmatic Animation - methods and equations for animation in JS
+- Unit Testing - what is unit testing and why do it
+- WebGL
+  - [Shader Intro](https://github.com/Jam3/jam3-lesson-webgl-shader-intro)
 
 # Code Examples
 
