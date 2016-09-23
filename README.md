@@ -19,6 +19,7 @@ Some lessons are not yet written.
 - Unit Testing - what is unit testing and why do it
 - WebGL
   - [Shader Intro](https://github.com/Jam3/jam3-lesson-webgl-shader-intro)
+  - [ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs)
 
 # Code Examples
 
